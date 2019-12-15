@@ -1,0 +1,22 @@
+{
+  "name": "nvm-repro",
+  "version": "1.0.0",
+  "description": "To test nvm withn a package.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guidobouman/nvm-repro.git"
+  },
+  "keywords": [
+    "nvm"
+  ],
+  "author": "Guido Bouman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guidobouman/nvm-repro/issues"
+  },
+  "homepage": "https://github.com/guidobouman/nvm-repro#readme"
+}
