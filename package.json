@@ -4,7 +4,7 @@
   "description": "To test nvm withn a package.json file",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "source ~/.nvm/nvm.sh && nvm i && echo \"it worked\""
   },
   "repository": {
     "type": "git",
